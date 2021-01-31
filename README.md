@@ -1,6 +1,6 @@
 # Automatic Download Videos on Youtube :game_die:
 <div> <p>This script automates the download of videos from youtube.
-  <br>By typing the url and folder that should be saved, it will download the video and bring detailed information about the video..</p>
+  <br>By typing the url and folder that should be saved, it will download the video and bring detailed information about the video.</p>
 
 <h3>Step by step: installation and use</h3>
 <p>1. <strong>Clone the repository</strong><br>
