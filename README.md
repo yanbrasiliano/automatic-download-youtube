@@ -10,7 +10,7 @@
 <p>3. <strong>Install requirements.txt</strong> <br>
 <pre>pip install -r requirements.txt</pre></p></p>
 <br>
-<p>Enjoying the generator 🏁</p>
+<p>Enjoying the app 🏁</p>
 
 <div align="center">
 <footer>All shared scripts can be used and improved.</footer>
