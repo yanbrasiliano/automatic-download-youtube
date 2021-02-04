@@ -1,5 +1,16 @@
 from pytube import YouTube
 
+"""
+
+Created by: Yan Brasiliano Silva Penalva
+Objective: Download automatic videos youtube.
+
+"""
+
+print()
+print('Author: Yan Brasiliano Silva Penalva - hiyan')
+print()
+
 # user typed #
 link = input("Enter the video link:  ")
 path = input("Enter the directory that the video will be saved:  ")
