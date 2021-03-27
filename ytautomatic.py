@@ -20,7 +20,7 @@ print(f"Rating: {yt.rating}.")
 # best resolution
 ys = yt.streams.get_highest_resolution()
 
-# download #
+# download 
 print("Download in progress ...")
 ys.download(path)
 print("Download completed.\nCheck your repository and enjoying the video.")
