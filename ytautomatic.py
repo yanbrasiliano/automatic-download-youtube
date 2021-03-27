@@ -1,9 +1,20 @@
 from pytube import YouTube
 
-"""
-
-Created by: Yan Brasiliano Silva Penalva
-Objective: Download automatic videos youtube.
+""" 
+File name:	 ytautomatic.py               
+Author:	     YAN BRASILIANO SILVA PENALVA     	            
+Email: 				yanpenabr@gmail.com
+---------------------------------------------------------------------
+Date created:  				xxxxxxxx
+Date last modified: 	26 MAR 2021
+Python Version:				3.5
+License: 							GPL License
+Maintainer: 					YAN BRASILIANO SILVA PENALVA
+Version: 							1.0
+---------------------------------------------------------------------
+Description:  
+PT-BR: Este script tem como função baixar vídeos do youtube.
+EN-US: This script has the function of downloading videos from youtube. 
 
 """
 # user typed 
